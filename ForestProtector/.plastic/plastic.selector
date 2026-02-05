@@ -1,0 +1,4 @@
+repository "ForestProtector 2026-02-05_11-06-11/ForestProtector@9072345035280@cloud"
+  path "/"
+    br "/main"
+    co "/main"
